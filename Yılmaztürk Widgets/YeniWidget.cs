@@ -105,7 +105,7 @@ namespace Yılmaztürk_Widgets
                         File.WriteAllText(alt + "kx", sonuc.X + "");
                         File.WriteAllText(alt + "fontsize", Convert.ToInt32(timeLBL.Font.Size) + "");
                         File.WriteAllText(alt + "datefontsize", Convert.ToInt32(date.Font.Size) + ""); 
-                        if(timeLBL.Text != "saat")
+                        if(timeLBL.Text != "süre")
                         {
                             File.WriteAllText(alt + "saatyazi", timeLBL.Text);
                         }
