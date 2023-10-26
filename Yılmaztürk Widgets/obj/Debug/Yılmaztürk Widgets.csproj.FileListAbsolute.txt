@@ -1,0 +1,48 @@
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\bin\Debug\Yılmaztürk Widgets.exe.config
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\bin\Debug\Yılmaztürk Widgets.exe
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\bin\Debug\Yılmaztürk Widgets.pdb
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.AssemblyReference.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Analog.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Form1.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Properties.Resources.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.GenerateResource.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.CoreCompileInputs.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.exe
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.pdb
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.WidgetTemp.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.YeniWidget.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.KonumBelirle.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Same.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Hour.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.ws.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.paketbilgisi.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.input.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.mavikutu.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Ayarlar.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.hakkinda.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets6\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.AssemblyReference.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets6\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets6\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.exe
+C:\Users\emrey\source\repos\Yılmaztürk Widgets6\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.pdb
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.AssemblyReference.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.exe
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.pdb
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Analog.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Ayarlar.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Form1.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.input.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.KonumBelirle.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.mavikutu.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.paketbilgisi.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Properties.Resources.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Hour.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.Same.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.WidgetTemp.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.ws.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk_Widgets.YeniWidget.resources
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.GenerateResource.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\obj\Debug\Yılmaztürk Widgets.csproj.CoreCompileInputs.cache
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\bin\Debug\Yılmaztürk Widgets.exe.config
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\bin\Debug\Yılmaztürk Widgets.exe
+C:\Users\emrey\source\repos\Yılmaztürk Widgets64\Yılmaztürk Widgets\bin\Debug\Yılmaztürk Widgets.pdb
