@@ -29,3 +29,6 @@ Widgetlarınız bilgisayarınızda çevrimdışı olarak depolanır. Depolanan k
 ## Widget Paketleri
 ![image](https://i.hizliresim.com/l8l83lg.png)
 ![image](https://i.hizliresim.com/cnl5j03.png)
+
+# Sosyal Medya
+Gelişmelerden haberdar olmak için https://www.instagram.com/yilmazturksoftware/
