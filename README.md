@@ -1,3 +1,7 @@
+# Arşiv Duyurusu (12.12.2023)
+Yılmaztürk Widgets artık kapalı kaynak bir uygulama. V2 sürümünün kaynak kodu Github'da yayınlanmayacaktır.
+
+Artık indirmek için: https://sourceforge.net/projects/y-lmazt-rk-widgets/
 ![image](https://github.com/YilmazturkSoftware/YilmazturkWidgets/blob/main/ywidgets.png)
 
 # Important
